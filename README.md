@@ -8,7 +8,14 @@ In order to reproduce the experiments described in [1] you need to firstly downl
 
 ###################
 ## Running Weka
-Once you launch Weka, you can open the arff file containing the data you want to reproduce, select the J48 tree classifier and run the classification.
+Once you launch Weka, follow these steps:
+1. Open the arff file containing the data you want to reproduce (Click on "Explorer" and then "Open file...")
+2. Go to the "Classify" tab to select the classifier algorithm;
+3. Click on the "Choose" button a menu will be displayed;
+4. Navigate to the "trees" and click it open
+5. Select "J48" tree classifier;
+6. Click on "Start" to run the classification (10-fold cross-validation is selected by default);
+7. After the process is run, you will see the results on the "Classifier output" display.
 
 ###################
 ## Datasets
