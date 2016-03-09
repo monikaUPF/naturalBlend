@@ -27,9 +27,9 @@ The following datasets are currently available:
 ###################
 # References
 
--[1] Domínguez M, Farrús M, Wanner L.  2016.  Combining Acoustic and Linguistic Features in Phrase-Oriented Prosody Prediction. 8th International Conference on Speech Prosody (SP2016).
--[2] Mark Hall, Eibe Frank, Geoffrey Holmes, Bernhard Pfahringer, Peter Reutemann, Ian H. Witten (2009). The WEKA Data Mining Software: An Update. SIGKDD Explorations, Volume 11, Issue 1.
--[3] Domínguez M, Farrús M, Burga A, Wanner L.  2016.  Using Hierarchical Information Structure for Prosody Prediction in Content-to-Speech Application. 8th International Conference on Speech Prosody (SP2016).
--[4] Domínguez M, Farrús M, Burga A, Wanner L.  2014.  The Information Structure-Prosody Interface Revisited. Proceedings of the 7th International Conference on Speech Prosody (SP2014).
--[5] Silverman K, Beckman M, Pitrelli J, Ostendorf M, Wightman C, Price P, Pierrehumbert J, and
+- [1] Domínguez M, Farrús M, Wanner L.  2016.  Combining Acoustic and Linguistic Features in Phrase-Oriented Prosody Prediction. 8th International Conference on Speech Prosody (SP2016).
+- [2] Mark Hall, Eibe Frank, Geoffrey Holmes, Bernhard Pfahringer, Peter Reutemann, Ian H. Witten (2009). The WEKA Data Mining Software: An Update. SIGKDD Explorations, Volume 11, Issue 1.
+- [3] Domínguez M, Farrús M, Burga A, Wanner L.  2016.  Using Hierarchical Information Structure for Prosody Prediction in Content-to-Speech Application. 8th International Conference on Speech Prosody (SP2016).
+- [4] Domínguez M, Farrús M, Burga A, Wanner L.  2014.  The Information Structure-Prosody Interface Revisited. Proceedings of the 7th International Conference on Speech Prosody (SP2014).
+- [5] Silverman K, Beckman M, Pitrelli J, Ostendorf M, Wightman C, Price P, Pierrehumbert J, and
 Hirschberg J. 1992. TOBI: A Standard for Labeling English Prosody. In 2nd Internatioanl Conference on Spoken Language Processing (ICSLP 92), no. October, pp. 867–870.
