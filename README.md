@@ -1,11 +1,17 @@
 # Instructions on Prosody Labels Prediction Experiments
 This repository contains information and data to reproduce our experiments on combining acoustic and linguistic features for expressive prosody analysis and generation as described in the author's publication [1].
 
+###################
+## Weka software
+
 In order to reproduce the experiments described in [1] you need to firstly download and install the Weka Data Mining software [2] from the following link http://www.cs.waikato.ac.nz/ml/weka/downloading.html
 
 ###################
-
+## Running Weka
 Once you launch Weka, you can open the arff file containing the data you want to reproduce, select the J48 tree classifier and run the classification.
+
+###################
+## Datasets
 
 The following datasets are currently available:
 
@@ -24,7 +30,7 @@ The following datasets are currently available:
 
 
 ###################
-# References
+## References
 
 - [1] Domínguez M, Farrús M, Wanner L.  2016.  Combining Acoustic and Linguistic Features in Phrase-Oriented Prosody Prediction. 8th International Conference on Speech Prosody (SP2016).
 - [2] Mark Hall, Eibe Frank, Geoffrey Holmes, Bernhard Pfahringer, Peter Reutemann, Ian H. Witten (2009). The WEKA Data Mining Software: An Update. SIGKDD Explorations, Volume 11, Issue 1.
