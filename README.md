@@ -1,4 +1,4 @@
-# naturalBlend
+# Reproducing the "naturalBlend"
 This repository contains information and data to reproduce our experiments on combining acoustic and linguistic features for expressive prosody analysis and generation as described in the author's publication [1].
 
 In order to reproduce the experiments described in Dominguez et al., 2016 you need to firstly download and install the Weka Data Mining software [2] from the following link http://www.cs.waikato.ac.nz/ml/weka/downloading.html
@@ -21,7 +21,6 @@ The following datasets are currently available:
               Speaker's State of origin: Massachusetts
 - "spk5f.arff": a filtered selection of data from spk5f (extracted from "hierarchical_ispros.arff")
               Speaker's State of origin: Arizona
-
 
 
 ###################
