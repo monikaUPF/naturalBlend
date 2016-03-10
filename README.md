@@ -22,8 +22,8 @@ Once you launch Weka, follow these steps:
 
 The following datasets are currently available:
 
-- "hierarchical_ispros.arff": contains labeled data following the prosodic schema described in (Dominguez et al., 2016) and the hierarchical information structure annotation described in [3,4]
-- "baseline.arff": contains a lalebed data as described in the ToBI convention [5] 
+- "ac_ispros.arff": contains labeled data for 12 speakers following the prosodic schema described in (Dominguez et al., 2016) and the hierarchical information structure annotation described in [3,4]
+- "baseline_spk5f.arff": contains a lalebed data as described in the ToBI convention [5] for spk5f.
 - "spk1f.arff": a filtered selection of data from spk1f (extracted from "hierarchical_ispros.arff") 
               Speaker's State of origin: New York
 - "spk1m.arff": a filtered selection of data from spk1m (extracted from "hierarchical_ispros.arff")
